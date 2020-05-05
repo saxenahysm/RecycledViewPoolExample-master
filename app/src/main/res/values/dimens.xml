@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Dim_4dp">4dp</dimen>
+    <dimen name="dp_90">90dp</dimen>
+    <dimen name="dp_30">30dp</dimen>
+    <dimen name="spacing_middle">4dp</dimen>
+</resources>
